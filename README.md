@@ -1,6 +1,9 @@
 # UMKC_Hackathon_F16
 EyeVerify biometric source capture
 
+View the video demo here:
+https://www.youtube.com/watch?v=CX6jfxrqiVY&feature=youtu.be
+
 Problem Statement:
 
 For image based biometrics it is important to capture a good quality image of the biometric source. Users often struggle to correctly position the phone for this image capture to take place. In many cases users cancel the biometric authentication process because they refuse to try or struggle to correctly position the phone.
